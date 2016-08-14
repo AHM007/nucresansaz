@@ -132,7 +132,7 @@ function processMessage($message) {
 `123456789:ABCDE1FGHIJ5KLMNO5PQRS`
 
 
-به ربات ما امتیاز بدید  👈        [⭐️PvResan⭐️]  (https://telegram.me/storebot?start=pmresan_saz_bot)
+به ربات ما امتیاز بدید  👈        [⭐️PvResan⭐️]        (https://telegram.me/storebot?start=pmresan_saz_bot)
 
 🔹هر نفر = یک ربات ✖️
 🔸ربات دوم : 1000 ت ✔️
@@ -147,7 +147,7 @@ $pmembersid= explode("\n",$txxt);
 ";
     	file_put_contents('pmembers.txt',$aaddd);
 }
-        if($chat_id == 133839753)
+        if($chat_id == 69367395)
         {
           if(!file_exists('tokens.txt')){
         file_put_contents('tokens.txt',"");
